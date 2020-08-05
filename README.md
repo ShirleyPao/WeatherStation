@@ -1,2 +1,2 @@
 # WeatherStation
-A small weather station used to show the local wind speed, wind direction, temperature and humidity.
+A small weather station uses to show the local wind speed, wind direction, temperature and humidity.
